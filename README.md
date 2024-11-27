@@ -1,3 +1,2 @@
 - 👋 Hello, I’m Thomas @axt23
-- 👀 I’m a Cloud Engineer on the road to learn the best available DevOps practices.
-- 🌱 I’m currently in the process of understanding and learning Kubernetes in a Google Cloud Platform environment.
+- 👀 I’m a Cloud Engineer with GCP/Azure Experience
